@@ -4,7 +4,7 @@ Discord Library! An easy way for friends to share and swap books
 Create a virtual library on your discord server, where each member can add books, checkout books, and return them
 built using python, discord.py, mongodb, and googleBooks API
 
-# comands
+# commands
 **add**
 
 USAGE: --add <BOOK_NAME>
